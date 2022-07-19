@@ -1,0 +1,18 @@
+.card {
+  display: block;
+  width: 200px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.card h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+.card p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 14px;
+}
